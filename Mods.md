@@ -1,4 +1,4 @@
-These are not sorted!! If you want the mods iduvidually, use the links provided. (even the libs...)
+These are not sorted!! If you want the mods individually, use the links provided. (even the libs...)
 
 # Mod List
 
