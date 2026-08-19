@@ -9,7 +9,6 @@ These are not sorted!! If you want the mods individually, use the links provided
 | AppleSkin | [Link](https://modrinth.com/mods?q=AppleSkin) |
 | BadOptimizations | [Link](https://modrinth.com/mods?q=BadOptimizations) |
 | Balm | [Link](https://modrinth.com/mods?q=Balm) |
-| BannerBoat | [Link](https://modrinth.com/mods?q=BannerBoat) |
 | Beautiful Enchanted Books [MOD EDITION] | [Link](https://modrinth.com/mods?q=Beautiful+Enchanted+Books) |
 | Better Advancements | [Link](https://modrinth.com/mods?q=Better+Advancements) |
 | Better Block Entities | [Link](https://modrinth.com/mods?q=Better+Block+Entities) |
@@ -30,10 +29,8 @@ These are not sorted!! If you want the mods individually, use the links provided
 | Crafting Tweaks | [Link](https://modrinth.com/mods?q=Crafting+Tweaks) |
 | Crash Assistant | [Link](https://modrinth.com/mods?q=Crash+Assistant) |
 | Cubes Without Borders | [Link](https://modrinth.com/mods?q=Cubes+Without+Borders) |
-| Cull Leaves | [Link](https://modrinth.com/mods?q=Cull+Leaves) |
 | Custom Glow Enchantment Outline | [Link](https://modrinth.com/mods?q=Custom+Glow+Enchantment+Outline) |
 | Debugify | [Link](https://modrinth.com/mods?q=Debugify) |
-| Distant Horizons | [Link](https://modrinth.com/mods?q=Distant+Horizons) |
 | Dynamic FPS | [Link](https://modrinth.com/mods?q=Dynamic+FPS) |
 | Dynamic Lights | [Link](https://modrinth.com/mods?q=Dynamic+Lights) |
 | Enchantment Descriptions | [Link](https://modrinth.com/mods?q=Enchantment+Descriptions) |
@@ -74,7 +71,6 @@ These are not sorted!! If you want the mods individually, use the links provided
 | Mod Menu | [Link](https://modrinth.com/mods?q=Mod+Menu) |
 | Modern Armor Bar | [Link](https://modrinth.com/mods?q=Modern+Armor+Bar) |
 | ModernFix-mVUS | [Link](https://modrinth.com/mods?q=ModernFix) |
-| Moonrise | [Link](https://modrinth.com/mods?q=Moonrise) |
 | More Chat History | [Link](https://modrinth.com/mods?q=More+Chat+History) |
 | More Culling | [Link](https://modrinth.com/mods?q=More+Culling) |
 | Mouse Tweaks | [Link](https://modrinth.com/mods?q=Mouse+Tweaks) |
@@ -99,7 +95,6 @@ These are not sorted!! If you want the mods individually, use the links provided
 | smart-fps-booster | [Link](https://modrinth.com/mods?q=smart-fps-booster) |
 | Sodium | [Link](https://modrinth.com/mods?q=Sodium) |
 | Sodium Extra | [Link](https://modrinth.com/mods?q=Sodium+Extra) |
-| Sodium Extra Information | [Link](https://modrinth.com/mods?q=Sodium+Extra+Information) |
 | Sound Culling | [Link](https://modrinth.com/mods?q=Sound+Culling) |
 | spark | [Link](https://modrinth.com/mods?q=spark) |
 | Status Effect Bars | [Link](https://modrinth.com/mods?q=Status+Effect+Bars) |
