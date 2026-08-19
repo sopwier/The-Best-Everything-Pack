@@ -4,7 +4,6 @@ These are not sorted!! If you want the mods individually, use the links provided
 
 | Mod Name | Search / Download Link |
 | :--- | :--- |
-| (Sodium) Chloride | [Link](https://modrinth.com/mods?q=(Sodium)+Chloride) |
 | Anvian's Lib | [Link](https://modrinth.com/mods?q=Anvian%27s+Lib) |
 | AppleSkin | [Link](https://modrinth.com/mods?q=AppleSkin) |
 | BadOptimizations | [Link](https://modrinth.com/mods?q=BadOptimizations) |
