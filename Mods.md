@@ -30,7 +30,6 @@ These are not sorted!! If you want the mods individually, use the links provided
 | Crafting Tweaks | [Link](https://modrinth.com/mods?q=Crafting+Tweaks) |
 | Crash Assistant | [Link](https://modrinth.com/mods?q=Crash+Assistant) |
 | Cubes Without Borders | [Link](https://modrinth.com/mods?q=Cubes+Without+Borders) |
-| Cull Fewer Leaves | [Link](https://modrinth.com/mods?q=Cull+Fewer+Leaves) |
 | Cull Leaves | [Link](https://modrinth.com/mods?q=Cull+Leaves) |
 | Custom Glow Enchantment Outline | [Link](https://modrinth.com/mods?q=Custom+Glow+Enchantment+Outline) |
 | Debugify | [Link](https://modrinth.com/mods?q=Debugify) |
@@ -95,6 +94,7 @@ These are not sorted!! If you want the mods individually, use the links provided
 | Remove Reloading Screen | [Link](https://modrinth.com/mods?q=Remove+Reloading+Screen) |
 | ScalableLux | [Link](https://modrinth.com/mods?q=ScalableLux) |
 | Searchables | [Link](https://modrinth.com/mods?q=Searchables) |
+| Silicon | [Link](https://modrinth.com/mod/silicons) |
 | Simple Voice Chat | [Link](https://modrinth.com/mods?q=Simple+Voice+Chat) |
 | smart-fps-booster | [Link](https://modrinth.com/mods?q=smart-fps-booster) |
 | Sodium | [Link](https://modrinth.com/mods?q=Sodium) |
@@ -103,14 +103,11 @@ These are not sorted!! If you want the mods individually, use the links provided
 | Sound Culling | [Link](https://modrinth.com/mods?q=Sound+Culling) |
 | spark | [Link](https://modrinth.com/mods?q=spark) |
 | Status Effect Bars | [Link](https://modrinth.com/mods?q=Status+Effect+Bars) |
-| Stfu | [Link](https://modrinth.com/mods?q=Stfu) |
 | SuperMartijn642's Config Lib | [Link](https://modrinth.com/mods?q=SuperMartijn642%27s+Config+Lib) |
 | SuperMartijn642's Core Lib | [Link](https://modrinth.com/mods?q=SuperMartijn642%27s+Core+Lib) |
 | Swing Through Grass | [Link](https://modrinth.com/mods?q=Swing+Through+Grass) |
 | TCDCommons API | [Link](https://modrinth.com/mods?q=TCDCommons+API) |
 | Text Placeholder API | [Link](https://modrinth.com/mods?q=Text+Placeholder+API) |
-| Too Much XP (TME) | [Link](https://modrinth.com/mods?q=Too+Much+XP) |
-| Trash Cans | [Link](https://modrinth.com/mods?q=Trash+Cans) |
 | TrashSlot | [Link](https://modrinth.com/mods?q=TrashSlot) |
 | VeinMiner | [Link](https://modrinth.com/mods?q=VeinMiner) |
 | VeinMiner Enchantment | [Link](https://modrinth.com/mods?q=VeinMiner+Enchantment) |
